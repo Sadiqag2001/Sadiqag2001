@@ -17,7 +17,7 @@ My goal is to become a **professional front-end web developer** who creates clea
 
 ## 🔧 Tools & Technologies
 
-```html
+html
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
