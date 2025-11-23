@@ -19,7 +19,7 @@
 I'm a **Computer Engineer** and **Front-end Developer** who loves building seamless, responsive, and accessible user interfaces.  
 My foundations come from the **ALX Software Engineering Program**, along with real-world experience designing and developing modern digital products.
 
-I specialize in solving problems through intuitive UI/UX and scalable front-end architecture — especially in **Productivity Tools**, and **E-commerce**, **FinTech**.
+I specialize in solving problems through intuitive UI/UX and scalable front-end architecture — especially in **Productivity Tools**, **E-commerce**, and **FinTech**.
 
 ---
 
