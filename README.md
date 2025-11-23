@@ -57,7 +57,7 @@ I specialize in solving problems through intuitive UI/UX and scalable front-end 
 ### **📸 PhotoSphere — React + Pexels API**
 Modern photo discovery app with search, exploration, and user favorites.
 
-### **🌍 Tix-fair**
+### **🎟️ Tix-fair**
 Interactive ticket managing app with clean geometric CSS shapes.
 
 ### **🎧 Audiophile | By AG**
